@@ -3,6 +3,7 @@ export default{
     title: 'Pin',
     type: 'document',
     fields: [
+        
         {
             name: 'title',
             title: 'Title',
