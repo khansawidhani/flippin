@@ -3,15 +3,17 @@ export default {
     title: 'Save',
     type: 'document',
     fields: [
+
         {
             name: 'postedBy',
             title: 'PostedBy',
-            type: 'postedBy'
+            type: 'postedBy',
         },
+
         {
             name: 'save',
             title: 'Save',
-            type: 'string'
+            type: 'string',
         }
     ]
 }
